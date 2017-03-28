@@ -1,0 +1,5 @@
+2017/03/01 14:53:18.100854 Начинаем парсить джейсон
+2017/03/01 14:53:18.100854 Starting excelExporter service
+2017/03/01 15:01:19.748109 Opening log file... excelexporter.log ... OK
+2017/03/01 15:01:19.762119 Starting excelExporter service, http point: localhost:8000/json2excel
+2017/03/01 15:02:45.015324 http: multiple response.WriteHeader calls

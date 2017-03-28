@@ -1,0 +1,5 @@
+{
+    "folderPath": "newfolder", //директрия по умолчанию для записи файлов екселя
+	"logFile" : "excelexporter.log", //имя файла для лога (или полный путь - /var/log/trdata/excelexporter.log)	
+    "hostPort" : "localhost:8000"	//по умолчанию, слушаем локалхост для входящих запросов
+}

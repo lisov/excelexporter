@@ -1,0 +1,5 @@
+{
+    "folderPath": "newfolder", 
+	"logFile" : "excelexporter.log", 
+    "hostPort" : "localhost:8000"	
+}
